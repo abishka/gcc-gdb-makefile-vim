@@ -9,14 +9,12 @@ useful links:\
 - https://www.tutorialspoint.com/makefile/index.htm \ 
 
 
-In git commit 3 : \
+In git commit 4: \
 
-with editing makefile we can use \ 
-- 'make' command to make and exec file going to build directory \
-- 'make clean' command also cleaning files that make create at build dir 
-- 'make run' runing executing c program  ...  
-      
-.vimrc  
-i just  add 'set number' we can use it with copy to home dir ... like  'cp .vimrc ~'
+i found vundle  => Vim plugin manager
 
+to use it :\
+ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+and changed .vimrc  
  
